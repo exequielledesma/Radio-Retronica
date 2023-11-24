@@ -7,7 +7,11 @@ body {
 .layout_padding {
   padding: 75px 0;
 }
-
+whatsapp {
+  position: fixed;
+  bottom: 0,00001px;
+  right:0,00001px;
+}
 .layout_padding2 {
   padding: 45px 0;
 }
